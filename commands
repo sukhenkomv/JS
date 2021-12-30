@@ -1,0 +1,5 @@
+npx create-next-app@latest --ts
+
+npm create-next-app --ts
+
+yarn create next-app
