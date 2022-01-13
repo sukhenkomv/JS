@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7250b6b5-da02-4738-9254-521b2d5f3aa6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/.idea/my-app-ts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/.idea/yii2settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/next-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/next.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/pages/_app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/pages/aaa.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/pages/api/hello.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/pages/bbb.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/pages/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app-ts/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/nest-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/src/app.controller.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/src/app.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/src/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/src/app.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/test/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/test/jest-e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/tsconfig.build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nestjs-getting-started/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="23UPDiXkPVGtSkLxBbRGPsA7GEx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pr-ts-1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7250b6b5-da02-4738-9254-521b2d5f3aa6" name="Default Changelist" comment="" />
+      <created>1641785574469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641785574469</updated>
+      <workItem from="1641785575711" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
