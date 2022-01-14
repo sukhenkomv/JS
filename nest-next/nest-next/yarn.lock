@@ -4256,6 +4256,13 @@ neo-async@^2.6.2:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
+nest-next@^9.5.0:
+  version "9.5.0"
+  resolved "https://registry.yarnpkg.com/nest-next/-/nest-next-9.5.0.tgz#615692d3ac5aed4520b4824dcfb4223c54f7bdfe"
+  integrity sha512-dE8TSTqwPbuwz+xJ1dZrr7aSoH5CuwkuCBjDEy8lHjlfFdVXOWmOJ1uM0Aj+tqGOdyBxOxA5Mi7BAVbB696PYA==
+  dependencies:
+    rxjs "^6.4"
+
 next@^12.0.8:
   version "12.0.8"
   resolved "https://registry.yarnpkg.com/next/-/next-12.0.8.tgz#29138f7cdd045e4bbba466af45bf430e769634b4"
@@ -4940,7 +4947,7 @@ run-parallel@^1.1.9:
   dependencies:
     queue-microtask "^1.2.2"
 
-rxjs@6.6.7, rxjs@^6.6.0:
+rxjs@6.6.7, rxjs@^6.4, rxjs@^6.6.0:
   version "6.6.7"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.6.7.tgz#90ac018acabf491bf65044235d5863c4dab804c9"
   integrity sha512-hTdwr+7yYNIT5n4AMYp85KA6yw2Va0FLa3Rguvbpa4W3I5xynaBZo41cM3XM+4Q6fRMj3sBYIR1VAmZMXYJvRQ==
